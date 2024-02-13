@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+zig-cache/
+zig-out/
+target/
+Cargo.lock
+*.log
+.vscode/
+env*
+.textlintcache
+tmp
