@@ -1,5 +1,15 @@
 {
   "dependencies": {
     "zenn-cli": "^0.1.153"
-  }
+  },
+  "name": "zenn",
+  "description": "Zennのリポジトリ",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
