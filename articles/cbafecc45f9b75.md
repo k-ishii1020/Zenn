@@ -7,14 +7,14 @@ published: true
 publication_name: "gmomedia"
 ---
 
+ReclineというAIエージェントを使用してみたら、GitHub Copilotを初めて使用したときの感動を思い出しましたのでご紹介します。
 
 # Reclineとは
-まず、ClineというVSCode上で動作するAIエージェントがあります。様々なLLM（GPTやClaudeなど）を使用し、コーディング支援をしてくれるものです。
+ClineというVSCode上で動作するAIエージェントがあります。様々なLLM（GPTやClaudeなど）を使用し、コーディング支援をしてくれるものです。
 GitHub Copilotとは異なり、指示をするだけでコーディング、各ファイルやディレクトリの作成など行ってくれるため、GitHub Copilotより一段階上を行くAIエージェントと言えます。
 Clineは前述の通り、各LLMを使用する必要があるため、別途LLMの料金がかかります。
 
-
-今回検証するReclineはそのClineをGitHub Copilotと組み合わせて使用できるものです。
+今回検証するReclineはそのClineをVSCodeのLanguage Model APIを経由したGitHub Copilotと組み合わせて使用できるものです。
 つまり、GitHub Copilotを契約しているユーザであれば、別途LLMの利用料金を支払うことなく、Clineに近い機能を使用することができます。
 Clineの詳細は以下で紹介されています。
 https://www.ai-souken.com/article/what-is-cline
