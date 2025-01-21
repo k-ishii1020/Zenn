@@ -2,7 +2,7 @@
 title: "GitHub Copilotを活用したAIエージェント Reclineを試してみる"
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["recline","cline", "AIエージェント","GitHub Copilot"]
+topics: ["recline","cline", "AIエージェント","GitHubCopilot"]
 published: true
 publication_name: "gmomedia"
 ---
@@ -30,6 +30,12 @@ https://www.ai-souken.com/article/what-is-cline
 - GitHub Copilotが利用できること
 - pnpm(JavaScriptパッケージ管理ツール)がインストールされていること
 - codeコマンドが利用できること
+- fdがインストールされていること ※
+- ripgrepがインストールされていること ※
+
+※2025/01/21時点でリリースされているReclineでは、ローカルへのインストールが必要。詳細は[@README](https://github.com/julesmons/recline?tab=readme-ov-file#recline-a-fork-of-cline)を参照
+（コメントにて情報提供してくださった [@itmammoth](https://zenn.dev/itmammoth)さん、ありがとうございます）
+
 
 
 ## pnpmのインストール
@@ -50,6 +56,21 @@ source .zshrc
 ![](/images/cbafecc45f9b75/1.png)
 1. codeがインストールされれば成功
 ![](/images/cbafecc45f9b75/2.png)
+
+## fdのインストール
+1. 以下のコマンドでインストールします。
+
+```sh
+brew install fd
+```
+https://github.com/sharkdp/fd?tab=readme-ov-file#on-macos
+
+# ripgrepのインストール
+1. 以下のコマンドでインストールします。
+```sh
+brew install ripgrep
+```
+https://github.com/sharkdp/fd?tab=readme-ov-file#on-macos
 
 ## Reclineのインストール
 本題のReclineのインストール方法です。
