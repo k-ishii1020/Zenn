@@ -1,6 +1,6 @@
 ---
 title: "GitHub Copilot公式のAIエージェント（Agent Mode）がいよいよプレビューリリース！"
-emoji: "🤖"
+emoji: "🚀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["githubcopilot","githubcopilotchat", "AIエージェント", "cline"]
 published: true
