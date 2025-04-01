@@ -1,13 +1,17 @@
 ---
 title: "【日本語対応】GitHub Copilot公式 AIコードレビューのTips"
-emoji: "✨️"
+emoji: "🌸"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["GitHub","AI", "コードレビュー", "Copilot"]
+topics: ["GitHub", "GitHubCopilot", "AI", "コードレビュー", "Tips"]
 published: true
 publication_name: "gmomedia"
 ---
+早くも新年度になり、桜が咲き始める季節になりましたね🌸
+エイプリルフールネタを考えてみましたが、特に思い浮かびませんでした🤨
 
-# GitHub Copilot AIレビューのTips
+今回はGitHub CopilotのAIコードレビュー機能を使ったTipsを紹介します。
+
+# GitHub Copilotのコードレビューとは
 GitHub Copilotのコードレビュー機能を使うと、プルリクエストのコードレビューをCopilotにお願いすることができます。
 https://docs.github.com/ja/copilot/using-github-copilot/code-review/using-copilot-code-review
 
