@@ -1,5 +1,5 @@
 ---
-title: "【日本語対応】GitHub Copilot公式 AIコードレビューのTips"
+title: "【日本語対応】GitHub Copilot コードレビュー機能のTips"
 emoji: "🌸"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["GitHub", "GitHubCopilot", "AI", "コードレビュー", "Tips"]
