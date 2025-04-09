@@ -32,7 +32,7 @@ publication_name: "gmomedia"
 # 完成したもの
 こちらになります！
 ![](/images/slack-attendance-app/1.png)
-*Slackアプリアホームのキャプチャ*
+*Slackアプリホームのキャプチャ*
 
 「出勤お知らせちゃん」という名称になっていますがこの名称はconfig.yamlで変更可能です。
 
