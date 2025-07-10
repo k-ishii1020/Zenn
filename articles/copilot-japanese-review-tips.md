@@ -35,8 +35,16 @@ https://docs.github.com/ja/copilot/using-github-copilot/code-review/using-copilo
 https://x.com/k_ishii1020/status/1897860133352620069
 :::message
 ちなみに、copilot-instructions.mdに記載しても効果はありませんでした。
-現時点ではプルリクエストのCopilot AIレビューでは参照されないのかもしれません。
+~~現時点ではプルリクエストのCopilot AIレビューでは参照されないのかもしれません。~~
 :::
+
+:::message alert
+2025/07/10 追記: 2025/06/13からパブリックプレビューではありますが、有料版Copilotを契約しているアカウントではcopilot-instructions.mdを参照したレビューが可能になりました。
+本記事の内容は引き続き有用ですが、参考までにリンクを掲載しておきます。
+
+https://github.blog/changelog/2025-06-13-copilot-code-review-customization-for-all/
+:::
+
 
 
 ## レビューについて指示を出す
