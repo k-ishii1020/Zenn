@@ -46,7 +46,7 @@ https://speakerdeck.com/yokawasa/ai-ready-api-designing-mcp-and-apis-in-the-ai-e
 
 https://speakerdeck.com/segavvy/ben-dang-niwakariyasuiaiezientoru-men
 
-登壇者紹介リンク: [https://x.com/segavvy/status/1946076317952385244](https://x.com/segavvy/status/1946076317952385244)
+登壇者紹介リンク: [https://x.com/segavvy/status/1946114649906356351](https://x.com/segavvy/status/1946114649906356351)
 
 
 ## 非開発者がプロ開発の世界へ!? Copilot StudioのエージェントをGitHub Copilotを使って開発してみる [@pepe223223](https://x.com/pepe223223)
