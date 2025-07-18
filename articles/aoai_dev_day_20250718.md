@@ -64,3 +64,10 @@ https://www.docswell.com/s/chips0711/KQ93J3-2025-07-18-AOAIDevDay-AgentSecurity-
 登壇者紹介リンク: [https://x.com/chipsnack0711/status/1946094001909874907](https://x.com/chipsnack0711/status/1946094001909874907)
 
 
+## GitHubで盛り上がろう！GitHub dockyardコミュニティへようこそ [@dz_](https://x.com/dz_)
+
+https://www.docswell.com/s/dzeyelid/53E6VP-20250718-aoaidevday-intro-github-dockyard-and-ai-features-pickup#p1
+
+登壇者紹介リンク: [https://x.com/dz_/status/1946105821425004739](https://x.com/dz_/status/1946105821425004739)
+
+
