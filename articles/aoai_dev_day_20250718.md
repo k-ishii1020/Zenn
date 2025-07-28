@@ -71,3 +71,58 @@ https://www.docswell.com/s/dzeyelid/53E6VP-20250718-aoaidevday-intro-github-dock
 登壇者紹介リンク: [https://x.com/dz_/status/1946105821425004739](https://x.com/dz_/status/1946105821425004739)
 
 
+
+##  AI Red Teaming Agentのご紹介 [@satodayo1115](https://x.com/satodayo1115)
+
+https://speakerdeck.com/satodayo/ai-red-teaming-agentnogoshao-jie
+
+登壇者紹介リンク: [https://x.com/satodayo1115/status/1947883759870583190](https://x.com/satodayo1115/status/1947883759870583190)
+
+
+## モック作りのお供にGitHub Coding Agent [@show_m001](https://x.com/show_m001)
+
+https://speakerdeck.com/kenichirokimura/aoaidevday2025lt
+
+登壇者紹介リンク: [https://x.com/show_m001/status/1946185846048399805](https://x.com/show_m001/status/1946185846048399805)
+
+## モック作りのお供にGitHub Coding Agent [@show_m001](https://x.com/show_m001)
+
+https://speakerdeck.com/kenichirokimura/aoaidevday2025lt
+
+登壇者紹介リンク: [https://x.com/show_m001/status/1946185846048399805](https://x.com/show_m001/status/1946185846048399805)
+
+
+
+## Foundry Localはお手軽ローカルLLM コマンドと.NET向けSDKのどちらでも便利 [@suusanex](https://x.com/suusanex)
+
+https://www.docswell.com/s/suusanex/ZQ98MJ-2025-07-18-220545
+
+登壇者紹介リンク: [https://x.com/suusanex/status/1946231653187441105](https://x.com/suusanex/status/1946231653187441105)
+
+
+
+## プログラミング自動化の果てに [@mizchi](https://x.com/mizchi)
+
+https://aoai-ai-coding.mizchi.workers.dev/
+
+登壇者紹介リンク: [https://x.com/mizchi/status/1946164489763885474](https://x.com/mizchi/status/1946164489763885474)
+
+
+## BEYOND THE RAG🚀 ~とりあえずRAG？を超えていけ！本当に使えるAIエージェント＆生成AIプロダクトを目指して~ [@jnymyk](https://x.com/jnymyk)
+
+https://speakerdeck.com/jnymyk/beyond-the-rag-toward-practical-generativeai-products-aoai-devday-2025
+
+登壇者紹介リンク: [https://x.com/jnymyk/status/1946798926201593997](https://x.com/jnymyk/status/1946798926201593997)
+
+
+## 地図と生成AI [@nakasho_dev](https://x.com/nakasho_dev)
+
+https://speakerdeck.com/nakasho/di-tu-tosheng-cheng-ai
+
+登壇者紹介リンク: [https://x.com/nakasho_dev/status/1946546131187679289](https://x.com/nakasho_dev/status/1946546131187679289)
+
+## MCP とマネージド PaaS で実現する大規模 AI アプリケーションの高速開発
+
+https://speakerdeck.com/nahokoxxx/mcp-tomanezido-paas-deshi-xian-suruda-gui-mo-ai-apurikesiyonnogao-su-kai-fa
+
+登壇者紹介リンク: [https://x.com/nahoko_ushiro/status/1946413268198969484](https://x.com/nahoko_ushiro/status/1946413268198969484)
