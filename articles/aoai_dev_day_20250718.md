@@ -85,13 +85,6 @@ https://speakerdeck.com/kenichirokimura/aoaidevday2025lt
 
 登壇者紹介リンク: [https://x.com/show_m001/status/1946185846048399805](https://x.com/show_m001/status/1946185846048399805)
 
-## モック作りのお供にGitHub Coding Agent [@show_m001](https://x.com/show_m001)
-
-https://speakerdeck.com/kenichirokimura/aoaidevday2025lt
-
-登壇者紹介リンク: [https://x.com/show_m001/status/1946185846048399805](https://x.com/show_m001/status/1946185846048399805)
-
-
 
 ## Foundry Localはお手軽ローカルLLM コマンドと.NET向けSDKのどちらでも便利 [@suusanex](https://x.com/suusanex)
 
