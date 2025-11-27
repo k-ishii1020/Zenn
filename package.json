@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "zenn-cli": "^0.1.154"
+    "zenn-cli": "^0.1.162"
   },
   "name": "zenn",
   "description": "Zennのリポジトリ",
@@ -11,5 +11,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-ishii1020/Zenn.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/k-ishii1020/Zenn/issues"
+  },
+  "homepage": "https://github.com/k-ishii1020/Zenn#readme"
 }
