@@ -1,5 +1,5 @@
 ---
-title: "【情報流出】OpenAIセキュリティインシデントのメールについて（Third-party security incident）"
+title: "【情報流出】OpenAI セキュリティインシデントのメールについて（Third-party security incident）"
 emoji: "⚠️"
 type: "tech"
 topics: ["openai", "securiry", "openaiapi", "chatgpt"]
